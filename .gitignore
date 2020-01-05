@@ -5,3 +5,5 @@
 /WebApi/obj/Debug/netcoreapp2.2
 /WebApi/obj
 /.vs/WebApi/v15
+/WebApi/bin/Debug/netcoreapp2.2
+/.vs/config
